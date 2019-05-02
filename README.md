@@ -14,6 +14,14 @@ SuperCollider uses this data to set paramaters such as pitch and filter cutoff f
 
 Visuals based on code by Daniel Shiffman ( The Nature of Code - https://natureofcode.com )
 
+PLEASE NOTE, THIS IS A NEW REPOSITORY FOR SUBMISSION.
+
+FOR EVIDENCE OF WORK LEADING TO THIS POINT, PLEASE SEE MY OTHER REPOSITORIES
+
+https://github.com/aequalsplay
+
+
+
 
 
 
